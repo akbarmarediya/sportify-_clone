@@ -1,2 +1,2 @@
-# sportify-_clone
+# sportify_clone
 This is a Sportify Clone
