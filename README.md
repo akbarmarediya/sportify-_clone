@@ -1,2 +1,2 @@
 # sportify-_clone
-This Is A Sportify Clone
+This is a Sportify Clone
